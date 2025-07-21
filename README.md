@@ -1,19 +1,3 @@
-A YouTube Clone built using the MERN Stack with the following features:
-
-✅ JWT-based User Authentication
-
-✅ Upload & View Videos
-
-✅ Like/Dislike system (stored in DB)
-
-✅ Filter Videos by Category (Anime, Music, etc.)
-
-✅ User Channels
-
-✅ Add & View Comments
-
-✅ Responsive UI with MUI & Toast Notifications
-
 🧑‍💻 Tech Stack
 Frontend
 React ^19.1.0
